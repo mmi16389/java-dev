@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="prog-two" />
+        <module name="prog-one" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="prog-one (1) (pro.xdevopps)" target="8" />
+      <module name="prog-two (1)" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
